@@ -1,5 +1,8 @@
 # 통합
-### 팀 전체 의견을 통합
+### 팀 전체 의견을 통합  
+
+## Data set
+[소상공인시장진흥공단_상가(상권)정보](https://www.data.go.kr/data/15012005/fileData.do), [seoul_municipalities_geo_simple.json](https://github.com/CodeDiary18/Commercial-Districts-Analysis/blob/main/data/seoul_municipalities_geo_simple.json)
 
 
 ## File introduction
@@ -14,11 +17,11 @@
 
 
 #### 분석
+* 
+* 
 
 
-
-
-### [카페 상권분석.ipynb](https://github.com/CodeDiary18/Commercial-Districts-Analysis/blob/main/CodeDiary18/%EC%B9%B4%ED%8E%98%20%EC%83%81%EA%B6%8C%EB%B6%84%EC%84%9D.ipynb)
+### [카페 상권분석.ipynb](https://github.com/CodeDiary18/Commercial-Districts-Analysis/blob/main/%ED%86%B5%ED%95%A9/%EC%B9%B4%ED%8E%98%20%EC%83%81%EA%B6%8C%EB%B6%84%EC%84%9D.ipynb)
 #### 요약
 * data라는 폴더에서 분석하고 싶은 도시와 분석하고 싶은 카페 브랜드 2개를 입력받고 그에 대한 매장에 대한 분석
 
