@@ -1,7 +1,7 @@
 # Data set
 [소상공인시장진흥공단_상가(상권)정보](https://www.data.go.kr/data/15012005/fileData.do) - 데이터 등록일 : 2021.01.28
 
-[seoul_municipalities_geo_simple.json](https://github.com/CodeDiary18/Commercial-Districts-Analysis/blob/main/CodeDiary18/data/seoul_municipalities_geo_simple.json)
+[seoul_municipalities_geo_simple.json](https://github.com/CodeDiary18/Commercial-Districts-Analysis/blob/main/data/seoul_municipalities_geo_simple.json)
 
 
 # Data set 저장 위치
