@@ -17,8 +17,14 @@
 
 
 #### 분석
-* 
-* 
+* 막대그래프
+ * 브랜드명 
+* 산점도(scatter): 브랜드명별로 산점도 찍기
+* groupby와 pivot_table로 구별 스타벅스, 메가커피 매장 수 구하기
+* 지도
+ * folium 활용해 스타벅스 메가커피 카페 매장 전체 분포 확인
+ * GeoJSON 파일 로드 후 스타벅스, 메가커피 메장 수 각각 확인
+ 
 
 
 ### [카페 상권분석.ipynb](https://github.com/CodeDiary18/Commercial-Districts-Analysis/blob/main/%ED%86%B5%ED%95%A9/%EC%B9%B4%ED%8E%98%20%EC%83%81%EA%B6%8C%EB%B6%84%EC%84%9D.ipynb)
